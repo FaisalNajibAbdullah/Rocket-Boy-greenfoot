@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=raja
+comment1.params=
+comment1.target=raja()
+comment2.params=kecepatan
+comment2.target=void\ tembak(int)
+comment3.params=
+comment3.target=boolean\ cekKena()
+comment4.params=
+comment4.target=void\ act()
+numComments=5
